@@ -10,5 +10,7 @@ The plugin is intended for registration and access to the site, which is done th
 After activating the plugin, the \"Authentication Settings\" section is added in the User profile section, from where you can enable / disable the Two Factoring Authentication option
 
 == Installation ==
-The plugin is intended for registration and access to the site. It provides a popup through which this is done. Offers password change և two factor authentication.
-https://bitbucket.org/Masha_23/authentication2fa/src/master/
+To install the plugin, go to one of the links below․
+
+bitbucket։ https://bitbucket.org/Masha_23/authentication2fa/src/master/
+gitHub: https://github.com/MashaTigranyan/Authentication2FA
